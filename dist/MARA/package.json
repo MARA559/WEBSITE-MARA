@@ -1,0 +1,36 @@
+{
+  "name": "mara",
+  "version": "1.0.0",
+  "description": "A React application showcasing a portfolio.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "portfolio",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "http://yourhomepage.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/mara.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/mara/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+section {
+    padding: 20px;
+}
+
+.py-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-gray-800 {
+    background-color: rgba(31, 41, 55, 1);
+}
+
+.bg-gray-800\/50 {
+    background-color: rgba(31, 41, 55, 0.5);
+}
+
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-gradient-to-br {
+    background-image: linear-gradient(to bottom right, #1f2937, #111827);
+}
