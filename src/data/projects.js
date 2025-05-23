@@ -3,14 +3,14 @@ const projects = [
     id: 1,
     title: "Modern Brand Identity",
     description: "Complete rebrand for a tech startup, including logo, color palette, and visual identity guidelines.",
-    image: "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    image: "file:///C:/Users/user/Desktop/nike%20tn.svg",
     category: "branding"
   },
   {
     id: 2,
     title: "Mobile App UI Design",
     description: "User interface design for a fitness tracking mobile application with a focus on user experience and clarity.",
-    image: "https://images.unsplash.com/photo-1616469829527-7939775a6024?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    image: "Screenshot_2023-10-01_at_12.00.00_PM.png",
     category: "ui"
   },
   {

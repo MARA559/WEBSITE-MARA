@@ -1,9 +1,11 @@
 import React from 'react';
-
+import ThreeBackground from './ThreeBackground'; 
 const Hero = () => {
   return (
-    <div className="relative min-h-screen flex items-center overflow-hidden">
-      {/* Background placeholder for 3D model - this div can be replaced later */}
+ <div className="relative min-h-screen flex items-center overflow-hidden">
+      {/* 3D Background */}
+      <ThreeBackground />
+
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-purple-900/30 to-gray-900 opacity-70"></div>
         <div className="absolute inset-0 flex items-center justify-center">
@@ -49,6 +51,7 @@ const Hero = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
