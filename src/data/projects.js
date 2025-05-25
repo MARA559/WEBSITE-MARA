@@ -8,9 +8,9 @@ const projects = [
   },
   {
     id: 2,
-    title: "Mobile App UI Design",
-    description: "User interface design for a fitness tracking mobile application with a focus on user experience and clarity.",
-    image: "web design.png",
+    title: "web UI Design",
+    description: "A sleek and modern web UI design for a fictional e-commerce platform, focusing on user experience and visual appeal.",
+    image: "2006.png",
     category: "ui"
   },
   {
