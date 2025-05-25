@@ -5,9 +5,10 @@ const About = () => {
     { name: 'Adobe Photoshop', level: 95 },
     { name: 'Adobe Illustrator', level: 90 },
     { name: 'Adobe InDesign', level: 85 },
-    { name: 'Figma', level: 88 },
-    { name: 'UI/UX Design', level: 82 },
-    { name: 'Brand Strategy', level: 80 },
+    { name: 'Figma', level: 76 },
+    { name: 'UI/UX Design', level: 60 },
+    { name: 'Brand Strategy', level: 50 },
+    { name: 'Web Design', level: 70 },
   ];
 
   return (
@@ -92,28 +93,12 @@ const About = () => {
                   <div className="w-3 h-3 rounded-full bg-indigo-500"></div>
                 </div>
                 <div className="ml-4">
-                  <h5 className="font-medium">Senior Graphic Designer</h5>
-                  <p className="text-sm text-gray-400">Creative Studio • 2019 - Present</p>
+                  <h5 className="font-medium">Freelancer Graphic Designer</h5>
+                  <p className="text-sm text-gray-400">2023-Present</p>
                 </div>
               </div>
-              <div className="flex">
-                <div className="flex-shrink-0 mt-1">
-                  <div className="w-3 h-3 rounded-full bg-indigo-500"></div>
-                </div>
-                <div className="ml-4">
-                  <h5 className="font-medium">Graphic Designer</h5>
-                  <p className="text-sm text-gray-400">Design Agency • 2016 - 2019</p>
-                </div>
-              </div>
-              <div className="flex">
-                <div className="flex-shrink-0 mt-1">
-                  <div className="w-3 h-3 rounded-full bg-indigo-500"></div>
-                </div>
-                <div className="ml-4">
-                  <h5 className="font-medium">BA in Graphic Design</h5>
-                  <p className="text-sm text-gray-400">Design University • 2012 - 2016</p>
-                </div>
-              </div>
+            
+            
             </div>
           </div>
         </div>

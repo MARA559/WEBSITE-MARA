@@ -31,6 +31,7 @@ const Contact = () => {
     }, 1500);
   };
 
+
   return (
     <div className="container mx-auto px-4 sm:px-6 lg:px-8">
       <div className="text-center mb-16">
@@ -135,8 +136,8 @@ const Contact = () => {
               </div>
               <div className="ml-4">
                 <h4 className="font-medium">Email</h4>
-                <p className="text-gray-400 mt-1">mara@designstudio.com</p>
-                <a href="mailto:mara@designstudio.com" className="text-indigo-400 hover:text-indigo-300 text-sm flex items-center mt-1">
+                <p className="text-gray-400 mt-1">fmara24@beder.edu.al</p>
+                <a href="mailto:fmara24@beder.edu.al" className="text-indigo-400 hover:text-indigo-300 text-sm flex items-center mt-1">
                   Write an email
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -155,8 +156,8 @@ const Contact = () => {
               </div>
               <div className="ml-4">
                 <h4 className="font-medium">Phone</h4>
-                <p className="text-gray-400 mt-1">+355 69 123 4567</p>
-                <a href="tel:+3556912345678" className="text-indigo-400 hover:text-indigo-300 text-sm flex items-center mt-1">
+                <p className="text-gray-400 mt-1">+355 68 423 6679</p>
+                <a href="tel:+355684236679" className="text-indigo-400 hover:text-indigo-300 text-sm flex items-center mt-1">
                   Call me
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
